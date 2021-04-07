@@ -4,7 +4,7 @@
 
 **Список:**
 
--   [arrays-practice](https://github.com/NickolaiBeloguzov/semenyako-pascal-scripts-repo/arrays-practice) - Файлы для практической работы "Массивы"
+-   [arrays-practice](https://github.com/NickolaiBeloguzov/semenyako-pascal-scripts-repo/tree/master/arrays-practice) - Файлы для практической работы "Массивы"
 
 **Среда разработки:**
 
