@@ -1,7 +1,7 @@
 ﻿program arr_mult_neg;
 
-const _ARR_BEGIN: integer = -70;
-const _ARR_END: integer = 65;
+const _ARR_BEGIN: integer = -10;
+const _ARR_END: integer = 10;
 
 var arr: array [1..20] of integer;
 var iter: integer; 
