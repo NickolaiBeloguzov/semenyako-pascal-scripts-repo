@@ -5,6 +5,7 @@
 **Список:**
 
 -   [arrays-practice](https://github.com/NickolaiBeloguzov/semenyako-pascal-scripts-repo/tree/master/arrays-practice) - Файлы для практической работы "Массивы"
+-   [playground](https://github.com/NickolaiBeloguzov/semenyako-pascal-scripts-repo/tree/master/playground) - Файлы для проверки различных "идей".
 
 **Среда разработки:**
 
